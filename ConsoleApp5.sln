@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp5", "ConsoleApp5\ConsoleApp5.csproj", "{942DAEC0-52B5-4374-ADB3-3B4A1D5FE80F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelToSql", "ConsoleApp5\ExcelToSql.csproj", "{942DAEC0-52B5-4374-ADB3-3B4A1D5FE80F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ExcelToSQlSetup", "ExcelToSQlSetup\ExcelToSQlSetup.vdproj", "{80BA3232-F2BB-405F-84FC-FA460049357D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,8 @@ Global
 		{942DAEC0-52B5-4374-ADB3-3B4A1D5FE80F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{942DAEC0-52B5-4374-ADB3-3B4A1D5FE80F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{942DAEC0-52B5-4374-ADB3-3B4A1D5FE80F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80BA3232-F2BB-405F-84FC-FA460049357D}.Debug|Any CPU.ActiveCfg = Debug
+		{80BA3232-F2BB-405F-84FC-FA460049357D}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
